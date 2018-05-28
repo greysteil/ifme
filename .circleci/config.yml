@@ -66,6 +66,10 @@ jobs:
     # This is based on your 1.0 configuration file or project settings
     - run: gem install bundler
     - run: bundle install --path=vendor/bundle --jobs=4 --retry=3
+    - run: rm -rf ~/.yarn
+    - run: npm i -g yarn
+    - run: yarn -v
+    - run: yarn install
     - run: yarn
     # Save dependency cache
     - save_cache:
