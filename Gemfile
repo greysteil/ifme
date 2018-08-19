@@ -48,7 +48,7 @@ gem 'font-awesome-sass'
 
 gem 'groupdate', '3.2'
 
-gem 'react_on_rails', '9.0.3'
+gem 'react_on_rails', '11.1.1'
 gem 'webpacker'
 
 group :development, :test do
