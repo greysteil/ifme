@@ -19,7 +19,7 @@ gem 'resque_mailer', '2.3.0'
 
 gem 'bootstrap-datepicker-rails', '~> 1.6.4.1'
 gem 'compass-rails', '~> 3.0.2'
-gem 'foundation-rails', '6.2.3.0'
+gem 'foundation-rails', '6.4.3.0'
 gem 'jbuilder', '~> 2.7.0'
 gem 'jquery-rails', '4.1.1'
 gem 'sass-rails', '~> 5.0', '>= 5.0.6'
