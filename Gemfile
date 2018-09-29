@@ -39,7 +39,7 @@ gem 'pusher', '1.1.0'
 gem 'rails-i18n', '~> 5.0.0'
 gem 'underscore-rails', '1.8.3'
 
-gem 'friendly_id', '~> 5.1.0'
+gem 'friendly_id', '~> 5.2.4'
 gem 'sdoc', '0.4.1', group: :doc
 
 gem 'font-awesome-sass'
