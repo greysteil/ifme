@@ -35,7 +35,7 @@ gem 'i18n-js', '>= 3.0.0.rc11'
 gem 'kaminari', '0.17.0'
 gem 'omniauth', '~> 1.6.1'
 gem 'omniauth-google-oauth2', '~> 0.5.2'
-gem 'pusher', '1.1.0'
+gem 'pusher', '1.3.1'
 gem 'rails-i18n', '~> 5.0.0'
 gem 'underscore-rails', '1.8.3'
 
